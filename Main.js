@@ -1,0 +1,1 @@
+document.cookie='disableAutoLaunch=2; path=/; domain=itunes.apple.com'
