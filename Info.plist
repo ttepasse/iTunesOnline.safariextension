@@ -44,5 +44,9 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://tobiastom.github.com/iTunesOnline.safariextension/Updates.plist</string>
+	<key>Website</key>
+	<string>http://tobiastom.github.com/iTunesOnline.safariextension/</string>
 </dict>
 </plist>
