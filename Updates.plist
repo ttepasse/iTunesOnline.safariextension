@@ -6,8 +6,8 @@
    <array>
      <dict>
        <key>CFBundleIdentifier</key>
-       <string></string>
-       <key>Team Identifier</key
+       <string>com.github.tobiastom.iTunesOnline</string>
+       <key>Team Identifier</key>
        <string>F26QD67YY7</string>
        <key>CFBundleVersion</key>
        <string>1</string>
