@@ -7,7 +7,7 @@
      <dict>
        <key>CFBundleIdentifier</key>
        <string>com.github.tobiastom.iTunesOnline</string>
-       <key>Team Identifier</key>
+       <key>Developer Identifier</key>
        <string>F26QD67YY7</string>
        <key>CFBundleVersion</key>
        <string>1</string>
@@ -19,7 +19,7 @@
      <dict>
        <key>CFBundleIdentifier</key>
        <string>com.github.tobiastom.iTunesOnline</string>
-       <key>Team Identifier</key>
+       <key>Developer Identifier</key>
        <string>F26QD67YY7</string>
        <key>CFBundleVersion</key>
        <string>2</string>
