@@ -1,7 +1,5 @@
-# iTunesOnline
+# Fuck iTunes Previews
 
-This Safari 5 extension will stop the iTunes Preview pages from opening in iTunes.
-All the other features will work, and you still can open iTunes on demand.
+Once upon a time Tobias Tom made a [Safari Extension](http://tobiastom.github.com/iTunesOnline.safariextension) which blocks the automatic opening of iTunes when visiting iTunes Store preview web pages. Sadly it stopped working.
 
-A little bit more information is available on it's website: 
-http://tobiastom.github.com/iTunesOnline.safariextension
+So I salvaged it and tried with cursory reading of Apple’s JS to find another way. The query parameter `ls=1` seems to do the trick. Also I gave it a better name.

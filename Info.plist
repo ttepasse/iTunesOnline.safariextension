@@ -3,15 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Tobias Tom</string>
+	<string>Tim Tepaße, Tobias Tom</string>
+	<key>Builder Version</key>
+	<string>10600.5.17</string>
 	<key>CFBundleDisplayName</key>
-	<string>iTunes Online</string>
+	<string>Fuck iTunes Previews</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.github.tobiastom.iTunesOnline</string>
+	<string>org.tepasse.fuck-itunes</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>Chrome</key>
@@ -44,9 +46,7 @@
 			<string>Some</string>
 		</dict>
 	</dict>
-	<key>Update Manifest URL</key>
-	<string>http://tobiastom.github.com/iTunesOnline.safariextension/Updates.plist</string>
 	<key>Website</key>
-	<string>http://tobiastom.github.com/iTunesOnline.safariextension/</string>
+	<string>https://github.com/ttepasse/iTunesOnline.safariextension</string>
 </dict>
 </plist>
